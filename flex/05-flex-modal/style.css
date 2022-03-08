@@ -69,12 +69,12 @@ button.cancel {
   color: royalblue;
 }
 
-.container {
+/* .container {
   display: flex;
   align-items: left;
   justify-content: center;
   flex-direction: column;
-}
+} */
 
 .header {
   display: flex;
